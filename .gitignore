@@ -139,3 +139,7 @@ docs/api
 events.out.tfevents*
 pretrained
 YOLOX_outputs
+Datasets
+datasets
+onnx_infer_outputs
+pretrained
